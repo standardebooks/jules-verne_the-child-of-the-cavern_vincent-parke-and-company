@@ -29,6 +29,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Child of the Cavern</dc:title>
 		<meta property="file-as" refines="#title">Child of the Cavern, The</meta>
+		<meta property="se:alternate-title" refines="#title">The Underground City</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
