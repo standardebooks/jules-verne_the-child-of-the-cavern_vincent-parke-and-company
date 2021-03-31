@@ -33,19 +33,28 @@
 		<dc:subject id="subject-1">Coal mines and mining -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Scotland -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
-		<dc:subject id="subject-4">Fantasy fiction, French -- Translations into English</dc:subject>
+		<dc:subject id="subject-4">Fantasy fiction, French</dc:subject>
 		<dc:subject id="subject-5">Civilization, Subterranean -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Imaginary places</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008100844</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008111215</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85001072</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85047126</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2009120339</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh92002904</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">An engineer returns to a depleted coal mine at an old friend's request and investigates mysterious happenings.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>***Need to edit this later***</p>
 		</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>PG_URL</dc:source>
 		<dc:source>IA_URL</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
