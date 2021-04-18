@@ -55,7 +55,7 @@
 			<p>***Need to edit this later***</p>
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/1355</dc:source>
 		<dc:source>IA_URL</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
