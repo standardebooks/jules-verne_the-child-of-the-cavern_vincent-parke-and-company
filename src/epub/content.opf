@@ -71,7 +71,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Vincent Parke and Company</dc:contributor>
 		<meta property="file-as" refines="#translator">Company, Vincent Parke and</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Vincent Parke and Company</meta>
 		<dc:contributor id="artist">J. M. W. Turner</dc:contributor>
 		<meta property="file-as" refines="#artist">Turner, J. M. W.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
