@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-08-30T22:24:43Z</dc:date>
+		<meta property="dcterms:modified">2021-08-30T22:24:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,6 +24,7 @@
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
@@ -55,13 +56,13 @@
 		<meta property="group-position" refines="#collection-1">16</meta>
 		<dc:description id="description">An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Child of the Cavern &lt;/i&gt;is number 16 in the “Extraordinary Voyages” series of novels by French author &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;. The story follows engineer James Starr as he returns to the site of a depleted coal mine in Scotland that he used to manage. He returns to the mine after receiving a letter from an old friend and co-worker, Simon Ford, requesting that he revisit the mine. Upon arriving, he finds the entire Ford family living in the mine, and Ford explains that a new coal vein has been located. Soon after Starr’s return, however, strange events start to occur which seem to be supernatural. After a startling discovery, the characters continue to investigate these occurrences over the course of several years.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Child of the Cavern &lt;/i&gt; follows engineer James Starr as he receives a letter from an old friend and co-worker, Simon Ford, requesting that he revisit a depleted coal mine in Scotland that he used to manage. Upon arriving, Starr finds the entire Ford family living in the mine, and Ford explains that a new coal vein has been located. Soon after Starr’s return, however, strange events start to occur, which seem to be supernatural. After a startling discovery, the characters continue to investigate these occurrences over the course of several years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1355</dc:source>
 		<dc:source>https://archive.org/details/worksjulesverne03horngoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">43887</meta>
+		<meta property="se:reading-ease.flesch">71.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Child_of_the_Cavern</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-child-of-the-cavern_vincent-parke-and-company</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -74,6 +75,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">J. M. W. Turner</dc:contributor>
 		<meta property="file-as" refines="#artist">Turner, J. M. W.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Joseph Mallord William Turner</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060712</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -92,6 +94,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
