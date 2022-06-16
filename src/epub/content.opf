@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Child of the Cavern</dc:title>
 		<meta property="file-as" refines="#title">Child of the Cavern, The</meta>
-		<meta property="se:alternate-title" refines="#title">Underground City, The</meta>
+		<meta property="dcterms:alternate" refines="#title">Underground City, The</meta>
 		<dc:subject id="subject-1">Coal mines and mining -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Scotland -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
