@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1355</dc:source>
 		<dc:source>https://archive.org/details/worksjulesverne03horngoog</dc:source>
 		<meta property="se:word-count">43886</meta>
-		<meta property="se:reading-ease.flesch">71.85</meta>
+		<meta property="se:reading-ease.flesch">71.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Child_of_the_Cavern</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-child-of-the-cavern_vincent-parke-and-company</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
