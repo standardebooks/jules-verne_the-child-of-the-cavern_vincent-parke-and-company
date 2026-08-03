@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company</dc:identifier>
 		<dc:date>2021-08-30T22:24:43Z</dc:date>
@@ -54,10 +54,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">16</meta>
-		<dc:description id="description">An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Child of the Cavern &lt;/i&gt; follows engineer James Starr as he receives a letter from an old friend and co-worker, Simon Ford, requesting that he revisit a depleted coal mine in Scotland that he used to manage. Upon arriving, Starr finds the entire Ford family living in the mine, and Ford explains that a new coal vein has been located. Soon after Starr’s return, however, strange events start to occur, which seem to be supernatural. After a startling discovery, the characters continue to investigate these occurrences over the course of several years.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1355</dc:source>
 		<dc:source>https://archive.org/details/worksjulesverne03horngoog</dc:source>
