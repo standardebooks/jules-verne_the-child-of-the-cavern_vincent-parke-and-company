@@ -54,7 +54,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">16</meta>
-		<dc:abstract>An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.</dc:abstract>
+		<meta property="schema:abstract">An engineer returns to a depleted coal mine at an old friend’s request and investigates mysterious happenings.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Child of the Cavern &lt;/i&gt; follows engineer James Starr as he receives a letter from an old friend and co-worker, Simon Ford, requesting that he revisit a depleted coal mine in Scotland that he used to manage. Upon arriving, Starr finds the entire Ford family living in the mine, and Ford explains that a new coal vein has been located. Soon after Starr’s return, however, strange events start to occur, which seem to be supernatural. After a startling discovery, the characters continue to investigate these occurrences over the course of several years.&lt;/p&gt;
 		</dc:description>
